@@ -59,7 +59,6 @@
 - 2026 로보컵 인천 HSL Kidsize Technical Challenge 부문 2등 (가상)
 - 2026 SRCIRC 1등 (가상)
 
----
 ## References
 
 - 박규동 교수
